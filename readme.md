@@ -1,5 +1,5 @@
-# **Facial Recognition using OpenCV and DeepFace**
+# **GUARDIANS OF THE ROAD: A Futuristic Vision for Safer Road Management through Advanced Facial Recognition!**
 
 ## **Overview**
 
-This project showcases a simple facial recognition system integrating OpenCV for computer vision and DeepFace for deep learning-based face recognition. The application captures video frames from a camera, leverages OpenCV for face detection, and utilizes DeepFace for face recognition.
+This project unveils a streamlined facial recognition system that seamlessly integrates OpenCV for computer vision and DeepFace for advanced deep learning-based face recognition.
